@@ -1,0 +1,2 @@
+npm install next-auth mongoose bcryptjs axios
+npm install @types/bcryptjs -D
